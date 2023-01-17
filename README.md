@@ -11,7 +11,7 @@ Sometimes I'll use these ID: `hylwxqwq`,`EnonyaBTe`,`BTe`,`BTeqwq`,`ReToZero`,`K
 
 I'm willing to meet more friends who share the same interests as me🤗. I think it can be great fun!
 
-You have a contact with me through these social medias:
+You can have a contact with me through these social medias:
 
 + Email: <mailto:black_trees@foxmail.com>, <mailto:black_trees2@outlook.com>
 + Github: <https://github.com/hylwxqwq>
