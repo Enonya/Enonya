@@ -21,8 +21,8 @@ You have a contact with me through these social medias:
 
 These are my profiles on several OnlineJudges:
 
-+ Atcoder: <https://atcoder.jp/users/black_trees>
-+ Codeforces: <https://codeforces.com/profile/black_trees>
++ Atcoder: [![black_trees](https://atrating.baoshuo.dev/rating?username=black_trees)](https://atcoder.jp/users/black_trees)
++ Codeforces: [![black_trees](https://cfrating.baoshuo.dev/rating?username=black_trees)](https://codeforces.com/profile/black_trees)
 
 And here is my personal blog!
 
