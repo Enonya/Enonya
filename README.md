@@ -13,6 +13,8 @@ Sometimes I'll use these ID: `hylwxqwq`,`EnonyaBTe`,`BTe`,`BTeqwq`,`ReToZero`,`K
 - 🕹️ My favorite games: Touhou project STG🎮(as BTe), Maimai DX🎶(as Enonya), Osu!mania🎶(as hylwxqwq), The Legend of Zelda🕹️.
 - 🎶 My favorite music: Touhou / sasakure.UK / Neurofunk / Speedcore / Hardcore / Frenchcore
 
+I'm a vimer, so maybe I will write some plugins for vim in my free time.
+
 I'm willing to meet more friends who share the same interests as me🤗. I think it can be great fun!
 
 You can have a contact with me through these social medias:
