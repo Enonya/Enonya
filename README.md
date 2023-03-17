@@ -11,7 +11,7 @@ Sometimes I'll use these ID: `hylwxqwq`,`EnonyaBTe`,`BTe`,`BTeqwq`,`ReToZero`,`K
 - 💖 My favorite characters: Yuyuko Saigyouji, Hecatia Lapislazuli, Satori Komeiji, NachoNeko, Nekoha Shizuku!
 - (Actually I love all characters in touhou project :)
 - 🕹️ My favorite games: Touhou project STG🎮(as BTe), Maimai DX🎶(as Enonya), Osu!mania🎶(as hylwxqwq), The Legend of Zelda🕹️.
-- 🎶 My favorite music: Touhou / sasakure.UK / Neurofunk / Speedcore / Hardcore / Frenchcore
+- 🎶 My favorite music: Jazz / Touhou / sasakure.UK / Neurofunk / Core
 
 I'm a vimer, so maybe I will write some plugins for vim in my free time.
 
