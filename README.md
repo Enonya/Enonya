@@ -7,11 +7,9 @@ You can also call me Miller(him) or Enonya(her)😊.
 Sometimes I'll use these ID: `hylwxqwq`,`EnonyaBTe`,`BTe`,`BTeqwq`,`ReToZero`,`KonpakuYoumu`......
 
 - 🌱 I'm currently learning Olympiad for Informatics🧑‍💻, and I'm working for my little goal——get a first prize🥇 in NOIp2023!
-- ✨ My interests: computer science💻, touhou project⛩️, mug🎵, basketball🏀 and so on!
+- ✨ My interests: computer science💻, touhou project⛩️, basketball🏀 and so on!
 - 💖 My favorite characters: Yuyuko Saigyouji, Hecatia Lapislazuli, Satori Komeiji, NachoNeko, Nekoha Shizuku!
 - (Actually I love all characters in touhou project :)
-- 🕹️ My favorite games: Touhou project STG🎮, MUG(BMS, maimai, osu!mania, ...), The Legend of Zelda🕹️.
-- 🎶 My favorite music: Jazz / Touhou / sasakure.UK / Neurofunk / Core
 
 I'm a vimer, so maybe I will write some plugins for vim in my free time.
 
