@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm black_trees, a senior 1 student🧑🏻‍🎓 from Chengdu Foreign Languages School🏫.
+I'm black_trees, a senior 2 student🧑🏻‍🎓 from Chengdu Foreign Languages School🏫.
 
 You can also call me Miller(him) or Enonya(her)😊.
 
