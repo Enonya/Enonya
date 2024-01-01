@@ -6,7 +6,7 @@ You can also call me Miller(him) or Enonya(her)😊.
 
 Sometimes I'll use these ID: `hylwxqwq`,`EnonyaBTe`,`BTe`,`BTeqwq`,`ReToZero`,`KonpakuYoumu`......
 
-- 🌱 I'm currently learning Olympiad for Informatics🧑‍💻, and I'm working for my little goal——get a first prize🥇 in NOIp2023!
+- 🌱 I was learning Olympiad for Informatics🧑‍💻 for a long time, but now I'm preparing NCEE2025.
 - ✨ My interests: computer science💻, touhou project⛩️, basketball🏀 and so on!
 - 💖 My favorite characters: Yuyuko Saigyouji, Hecatia Lapislazuli, Satori Komeiji, NachoNeko, Nekoha Shizuku!
 - (Actually I love all characters in touhou project :)
